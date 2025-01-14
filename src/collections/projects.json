@@ -1,0 +1,32 @@
+[
+	{
+		"name": "YouTube View Prediction from Titles",
+		"description": "Machine Learning | Natural language processing (NLP)",
+		"image": "/assets/images/projects/youtube.png",
+		"url": "https://github.com/pritamrp/Youtube_title_NLP"
+	},
+	{
+		"name": "Amazon Product Reviews Sentiment Analysis",
+		"description": "Sentiment Analysis | Text Processing",
+		"image": "/assets/images/projects/amazon.png",
+		"url": "hhttps://github.com/pritamrp/Sentiment_Analysis_Amazon_Reviews"
+	},
+	{
+		"name": "Synthetic Tabular Data Generation ",
+		"description": "Synthetic Data | Deep Learning.",
+		"image": "/assets/images/projects/synthetic.png",
+		"url": "https://github.com/pritamrp/Synthetic-tabular-data"
+	},
+	{
+		"name": "Anime Insights: Viewer Trends and Recommendations",
+		"description": "Google Cloud | Big Query",
+		"image": "/assets/images/projects/anime.png",
+		"url": "https://github.com/pritamrp/Anime_Universe_Insights"
+	},
+	{
+		"name": "Washington State Electric Vehicle Population Analysis",
+		"description": "EDA | Data Analytsis",
+		"image": "/assets/images/projects/electric.png",
+		"url": "https://github.com/pritamrp/Electric_Vehicle_Population_Washington_state_Data_Analysis"
+	}
+]

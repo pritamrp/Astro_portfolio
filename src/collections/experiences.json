@@ -1,0 +1,23 @@
+[
+	{
+		"dates": "May 2024 · June 2024",
+		"role": "Data Scientist (Capstone Project)",
+		"company": "HeronAI, MIT",
+		"description": "API, Data Pipelines, A/B Testing",
+		"logo": "/assets/images/experiences/HeronAI_icon.png"
+	},
+	{
+		"dates": "June 2022 · July 2023",
+		"role": "Global Insight Analyst",
+		"company": "Nielsen",
+		"description": "Video Market Insights (Movies, OTTs, TV-Cable)",
+		"logo": "/assets/images/experiences/NLSN.png"
+	},
+	{
+		"dates": "November 2017 · May 2022",
+		"role": "Technical Engineer (Data Analyst, Predictive Analytics)",
+		"company": "Ecolab",
+		"description": "Time Series Analysis Sensor Data",
+		"logo": "/assets/images/experiences/ecolab-logo.png"
+	}
+]
